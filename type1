@@ -9,6 +9,7 @@
 #
 #
 
+0.0.0.0 auraria.org
 0.0.0.0 bd-lab.net
 # [
 0.0.0.0 10jp.space
@@ -454,7 +455,11 @@
 0.0.0.0 datadoghq.com
 0.0.0.0 datadoghq-browser-agent.com
 # ]
-
+# [
+0.0.0.0 emotionalrec.com
+0.0.0.0 factwisdom.com
+0.0.0.0 tdurl.uk
+# ]
 
 #
 #
